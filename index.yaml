@@ -8,6 +8,6 @@ entries:
     name: aou-rstudio-chart
     type: application
     urls:
-    - git@github.com:tarekmamdouh/aou-rstudio-helm-chart.git/aou-rstudio-chart-0.1.0.tgz
+    - https://tarekmamdouh.github.io/aou-rstudio-helm-chart/aou-rstudio-chart-0.1.0.tgz
     version: 0.1.0
 generated: "2023-06-13T14:07:25.591546766Z"
