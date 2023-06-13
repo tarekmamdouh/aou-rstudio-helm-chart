@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  aou-rstudio-chart:
+  - apiVersion: v2
+    created: "2023-06-13T14:07:25.592809195Z"
+    description: Chart for deploying Rstudio to All of Us Workbench
+    digest: 9cfaebae228fcafe0fdf165e6313a06be2d878eb99ad225bfb05ecacc1a28905
+    name: aou-rstudio-chart
+    type: application
+    urls:
+    - git@github.com:tarekmamdouh/aou-rstudio-helm-chart.git/aou-rstudio-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-06-13T14:07:25.591546766Z"
